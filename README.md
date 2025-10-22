@@ -165,9 +165,9 @@ Kondisi keuangan  : Hemat
 ## 👨‍💻 Author
 
 **Javier Ahmad**
-🎓 Pelajar & Youtuber @ Vibe Coding
-📅 Versi: 1.0 (Oktober 2025)
-📫 Kontak: [GitHub](https://github.com/DeJavi08)
+- 🎓 Pelajar & Youtuber @ Vibe Coding
+- 📅 Versi: 1.0 (Oktober 2025)
+- 📫 Kontak: [GitHub](https://github.com/DeJavi08)
 
 <p align="center">
   <i>Created with ❤️ by Javier Ahmad</i><br>
