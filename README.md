@@ -1,10 +1,13 @@
+
+
+<h1 align="center">💸 Welcome to <b>BudgetHero</b> 👋</h1>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/DeJavi08/BudgetHero/refs/heads/main/Assets/BudgetHero%20Banner.gif" 
        alt="BudgetHero Banner" 
        width="80%" />
 </p>
 
-<h1 align="center">💸 Welcome to <b>BudgetHero</b> 👋</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/version-1.0-blue.svg" />
   <img src="https://img.shields.io/badge/python-3.10%2B-yellow.svg" />
