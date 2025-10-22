@@ -169,9 +169,7 @@ Kondisi keuangan  : Hemat
 📅 Versi: 1.0 (Oktober 2025)
 📫 Kontak: [GitHub](https://github.com/DeJavi08)
 
-
 <p align="center">
   <i>Created with ❤️ by Javier Ahmad</i><br>
   <img src="https://img.shields.io/badge/BudgetHero-Built%20with%20Python-blue?logo=python" />
 </p>
-```
